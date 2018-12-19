@@ -1,0 +1,252 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.header {
+    margin-top: 36px;
+}
+
+.login-form input[type="text"] {
+    width: 71%;
+    padding: 8px;
+    line-height: 18px;
+}
+
+.login-form p {
+    margin-top: 26px;
+}
+
+.login-form button.btn.btn-primary {
+    padding: 9px 10px;
+    margin-left: 7px;
+}
+
+.cart-option img {
+    width: 44px;
+    background: #ddd;
+    padding: 2px;
+    border: 1px solid #FFD;
+}
+
+.cart-option {
+    margin-top: 22px;
+}
+
+.cart-option a {
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    left: 58px;
+    bottom: 0px;
+    /* border: 1px solid; */
+    padding: 12px 59px;
+    background: #ddd;
+}
+.nav>li {
+    position: relative;
+    display: inline-block;
+}
+.menu {
+    background: #000;
+   
+    color: #fff;
+    box-sizing: border-box;
+}
+
+li.nav-item {
+    color: #fff;
+   
+}
+.nav>li>a {
+    padding: 21px 9px;
+    color: #fff;
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.nav>li>a:hover {
+    background: #f9dd77;
+    color: green;
+}
+.logn-bnt a {
+    margin-top: 25px;
+}
+.my-h2 
+    {
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+.product li {
+    display: inline-block;
+    margin: 1px;
+    padding: 0px;
+}
+
+.right-slider{
+    margin-top: 15px;
+}
+
+.product {
+    margin-top: 15px;
+}
+
+.pro-img {
+    width: 54%;
+    float: left;
+    margin-right: 15px;
+}
+
+.product li {
+    box-shadow: 2px 2px #ddd;
+}
+.featured-headline{
+    border: 1px solid gray;
+    margin-top: 17px;
+}
+.col-md-12.border.featured-headline {
+    margin-bottom: 10px;}
+.social-icon ul {
+    list-style-type: none;
+}
+
+.social-icon ul li {
+    float: left;
+}
+
+.social-icon ul li img {
+    max-width: 34px;
+}
+.login-body{
+    background: gray;
+    padding: 20px 42px;
+}
+.login-part {
+    background: #ddd;
+    
+}
+.login-part {
+    padding: 60px 22px;
+}
+
+element.style {
+}
+a.main-login-btn {
+    /* background-color: red; */
+}
+.all-log-bnt p{
+    padding-top: 10px;
+}
+.all-log-bnt a {
+    border: 1px solid;
+    display: block;
+    width: 50%;
+    text-align: center;
+    line-height: 51px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+.bg-orange{
+    background-color: #f57224;
+}
+.bg-fb{
+    background-color: #3b5998;
+}
+.bg-google{
+    background-color: #d34836;
+}
+.register-aria {
+    background: #fbf4e7;
+    padding: 10px;
+    padding-bottom: 48px;
+}
+.rg-orange {
+    font-size: 19px;
+    background-color: #f57224;
+    height: 28px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #748bce;
+}
+.rg-fb {
+    font-size: 19px;
+    background-color: #3b5998;
+    height: 28px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #748bce;
+}
+.rg-google {
+    font-size: 19px;
+    background-color: #d34836;
+    height: 28px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #748bce;
+}
+.bnt-register-page p {
+    padding-top: 26px;
+}
+.register-aria input[type="text"] {
+    width: 90%;
+    height: 38px;
+}
+.register-aria input[type="email"] {
+    width: 90%;
+    height: 38px;
+}
+.register-aria input[type="password"] {
+    width: 90%;
+    height: 38px;
+}
+.register-aria input[type="date"] {
+    width: 60%;
+    height: 38px;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.bnt-register-page a {
+    text-decoration: none;
+}
+label.gender {
+    padding-left: 93px;
+}
+select {
+    height: 38px;
+}
+.contact_head input#firstnumber {
+    padding-left: 21px;
+    width: 50%;
+}
+.contact_head input#Num_n_emai{
+    padding-left: 21px;
+    width: 50%;
+}
+ul.user-menu li {
+    
+    margin-top: 38px;
+}
+.user-area{
+    margin-top: 20px; 
+}
+.hr {
+    border-left: 1px green solid;
+}
+.upload-section{
+    margin-top: 30px;
+    padding: 10px;
+}
